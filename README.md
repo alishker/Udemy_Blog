@@ -1,4 +1,4 @@
-# Udemy_Blog
+# Class Based Views Django Blog
 Django Blog 
 
 # Requiments
